@@ -1,0 +1,7 @@
+C:\Users\l4304\Desktop\projeto\src\projeto.Data\bin\Debug\netcoreapp2.2\projeto.Data.deps.json
+C:\Users\l4304\Desktop\projeto\src\projeto.Data\bin\Debug\netcoreapp2.2\projeto.Data.dll
+C:\Users\l4304\Desktop\projeto\src\projeto.Data\obj\Debug\netcoreapp2.2\projeto.Data.csprojAssemblyReference.cache
+C:\Users\l4304\Desktop\projeto\src\projeto.Data\obj\Debug\netcoreapp2.2\projeto.Data.csproj.CoreCompileInputs.cache
+C:\Users\l4304\Desktop\projeto\src\projeto.Data\obj\Debug\netcoreapp2.2\projeto.Data.AssemblyInfoInputs.cache
+C:\Users\l4304\Desktop\projeto\src\projeto.Data\obj\Debug\netcoreapp2.2\projeto.Data.AssemblyInfo.cs
+C:\Users\l4304\Desktop\projeto\src\projeto.Data\bin\Debug\netcoreapp2.2\projeto.Business.dll
