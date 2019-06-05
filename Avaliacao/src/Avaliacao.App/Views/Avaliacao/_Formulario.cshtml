@@ -1,0 +1,39 @@
+﻿@model  AvaliacaoViewModel
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<div class="form-group" hidden>
+    <label asp-for="IdUsuario" class="control-label"></label>
+    <input asp-for="IdUsuario" class="form-control" />
+    <span asp-validation-for="IdUsuario" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="NumeroTelefone" class="control-label"></label>
+    <input asp-for="NumeroTelefone" class="form-control" />
+    <span asp-validation-for="NumeroTelefone" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Nota" class="control-label"></label>
+    <input asp-for="Nota" class="form-control" />
+    <span asp-validation-for="Nota" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Sugestao" class="control-label"></label>
+    <input asp-for="Sugestao" class="form-control" />
+    <span asp-validation-for="Sugestao" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Localizacao" class="control-label"></label>
+    <input asp-for="Localizacao" class="form-control" />
+    <span asp-validation-for="Localizacao" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+    <label asp-for="DataAvaliacao" class="control-label"></label>
+    <input asp-for="DataAvaliacao" class="form-control" type="date" disabled />
+    <span asp-validation-for="DataAvaliacao" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+    <label asp-for="IdSistema" class="control-label"></label>
+    <select asp-for="IdSistema" class="form-control" asp-items="ViewBag.IdSistema"></select>
+</div>

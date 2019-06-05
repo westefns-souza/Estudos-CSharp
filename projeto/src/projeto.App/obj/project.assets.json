@@ -12086,11 +12086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\l4304\\Desktop\\projeto\\src\\projeto.App\\projeto.App.csproj",
+      "projectUniqueName": "c:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\projeto\\src\\projeto.App\\projeto.App.csproj",
       "projectName": "projeto.App",
-      "projectPath": "C:\\Users\\l4304\\Desktop\\projeto\\src\\projeto.App\\projeto.App.csproj",
+      "projectPath": "c:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\projeto\\src\\projeto.App\\projeto.App.csproj",
       "packagesPath": "C:\\Users\\l4304\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\l4304\\Desktop\\projeto\\src\\projeto.App\\obj\\",
+      "outputPath": "c:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\projeto\\src\\projeto.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

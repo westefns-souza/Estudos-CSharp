@@ -3013,11 +3013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\l4304\\Desktop\\projeto\\src\\projeto.Data\\projeto.Data.csproj",
+      "projectUniqueName": "c:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\projeto\\src\\projeto.Data\\projeto.Data.csproj",
       "projectName": "projeto.Data",
-      "projectPath": "C:\\Users\\l4304\\Desktop\\projeto\\src\\projeto.Data\\projeto.Data.csproj",
+      "projectPath": "c:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\projeto\\src\\projeto.Data\\projeto.Data.csproj",
       "packagesPath": "C:\\Users\\l4304\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\l4304\\Desktop\\projeto\\src\\projeto.Data\\obj\\",
+      "outputPath": "c:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\projeto\\src\\projeto.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3037,8 +3037,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\l4304\\Desktop\\projeto\\src\\projeto.Business\\projeto.Business.csproj": {
-              "projectPath": "C:\\Users\\l4304\\Desktop\\projeto\\src\\projeto.Business\\projeto.Business.csproj"
+            "c:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\projeto\\src\\projeto.Business\\projeto.Business.csproj": {
+              "projectPath": "c:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\projeto\\src\\projeto.Business\\projeto.Business.csproj"
             }
           }
         }

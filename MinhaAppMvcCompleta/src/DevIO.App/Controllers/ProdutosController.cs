@@ -112,7 +112,7 @@ namespace DevIO.App.Controllers
             return RedirectToAction("Index");
         }
 
-        public async Task<IActionResult> Delete(Guid id)
+        public IActionResult Delete(Guid id)
         {
             var produtoViewModel = ObterProduto(id);
 

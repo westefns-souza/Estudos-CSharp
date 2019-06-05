@@ -1,0 +1,38 @@
+﻿@model SistemaViewModel
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<div class="form-group">
+    <label asp-for="Titulo" class="control-label"></label>
+    <input asp-for="Titulo" class="form-control" />
+    <span asp-validation-for="Titulo" class="text-danger"></span>
+</div>
+<div class="row">
+    <div class="col-6">
+        <div class="form-group">
+            <label asp-for="NomeSistema" class="control-label"></label>
+            <select asp-for="NomeSistema" asp-items="Model.Sistemas" class="form-control"></select>
+        </div>
+    </div>
+    <div class="col-6">
+        <div class="form-group">
+            <label asp-for="Situacao" class="control-label"></label>
+            <select asp-for="Situacao" asp-items="Model.Situacoes" class="form-control"></select>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        <div class="form-group">
+            <label asp-for="DataAvaliacaoInicio" class="control-label"></label>
+            <input asp-for="DataAvaliacaoInicio" class="form-control" type="date" />
+            <span asp-validation-for="DataAvaliacaoInicio" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="col-6">
+        <div class="form-group">
+            <label asp-for="DataAvaliacaoFim" class="control-label"></label>
+            <input asp-for="DataAvaliacaoFim" class="form-control" type="date" />
+            <span asp-validation-for="DataAvaliacaoFim" class="text-danger"></span>
+        </div>
+    </div>
+</div>

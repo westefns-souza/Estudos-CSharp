@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\l4304\\Desktop\\projeto\\src\\projeto.Business\\projeto.Business.csproj",
+      "projectUniqueName": "c:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\projeto\\src\\projeto.Business\\projeto.Business.csproj",
       "projectName": "projeto.Business",
-      "projectPath": "C:\\Users\\l4304\\Desktop\\projeto\\src\\projeto.Business\\projeto.Business.csproj",
+      "projectPath": "c:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\projeto\\src\\projeto.Business\\projeto.Business.csproj",
       "packagesPath": "C:\\Users\\l4304\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\l4304\\Desktop\\projeto\\src\\projeto.Business\\obj\\",
+      "outputPath": "c:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\projeto\\src\\projeto.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

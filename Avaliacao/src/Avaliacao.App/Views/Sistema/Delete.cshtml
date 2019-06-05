@@ -1,0 +1,50 @@
+﻿@model App.ViewModels.SistemaViewModel
+
+@{
+    ViewData["Title"] = "Novo Sistema";
+}
+
+<h4>Tem certeza que quer deletar @ViewData["Title"]?</h4>
+<hr />
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NomeSistema)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NomeSistema)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Situacao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Situacao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DataAvaliacaoInicio)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DataAvaliacaoInicio)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DataAvaliacaoFim)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DataAvaliacaoFim)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-primary">Voltar</a>
+    </form>
+</div>
+

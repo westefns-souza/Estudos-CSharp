@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap-rating-input@0.4.0",
+      "destination": "wwwroot/lib/bootstrap-rating-input/"
+    },
+    {
+      "library": "bootstrap-star-rating@4.0.6",
+      "destination": "wwwroot/lib/bootstrap-star-rating/",
+      "files": [
+        "js/star-rating.min.js"
+      ]
+    },
+    {
+      "library": "bootstrap-star-rating@4.0.6",
+      "destination": "wwwroot/lib/bootstrap-star-rating/",
+      "files": [
+        "js/star-rating.min.js",
+        "css/star-rating.min.css",
+        "themes/krajee-fas/theme.css",
+        "themes/krajee-fas/theme.js",
+        "themes/krajee-fas/theme.min.css",
+        "themes/krajee-fas/theme.min.js",
+        "js/locales/pt-BR.js"
+      ]
+    }
+  ,
+{
+  "library": "bootstrap-star-rating@4.0.6",
+  "destination": "wwwroot/lib/bootstrap-star-rating/",
+  "files": [
+    "js/star-rating.min.js",
+    "js/star-rating.js"
+  ]
+}
+,
+{
+  "library": "bootstrap-star-rating@4.0.6",
+  "destination": "wwwroot/bootstrap-star-rating/",
+  "files": [
+    "js/star-rating.min.js",
+    "js/star-rating.js",
+    "css/star-rating.css",
+    "css/star-rating.min.css"
+  ]
+}
+]
+}
