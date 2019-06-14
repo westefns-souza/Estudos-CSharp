@@ -31,5 +31,6 @@ namespace DevIO.App.ViewModels
 
         /* EF Relations */
         public IEnumerable<ProdutoViewModel> Produtos { get; set; }
+
     }
 }

@@ -45,3 +45,4 @@ C:\Users\l4304\Desktop\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Deb
 C:\Users\l4304\Desktop\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.g.cshtml.cs
 C:\Users\l4304\Desktop\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.g.cshtml.cs
 C:\Users\l4304\Desktop\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_Endereco.g.cshtml.cs
+C:\Users\l4304\Desktop\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_DetalhesEndereco.g.cshtml.cs

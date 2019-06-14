@@ -1,4 +1,5 @@
-﻿@model IEnumerable<DevIO.App.ViewModels.FornecedorViewModel>
+﻿@using DevIO.App.Extensions
+@model IEnumerable<DevIO.App.ViewModels.FornecedorViewModel>
 
 @{
     ViewData["Title"] = "Listra de Fornecedores";
@@ -32,6 +33,8 @@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Documento)
+
+                @*@this.FormataDocumento(item.TipoFornecedor, item.Documento)*@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Ativo)
