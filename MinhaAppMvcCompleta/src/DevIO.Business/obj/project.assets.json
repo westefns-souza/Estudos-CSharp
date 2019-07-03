@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+      "projectUniqueName": "C:\\Users\\l4304\\Desktop\\Liga\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
       "projectName": "DevIO.Business",
-      "projectPath": "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+      "projectPath": "C:\\Users\\l4304\\Desktop\\Liga\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
       "packagesPath": "C:\\Users\\l4304\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Business\\obj\\",
+      "outputPath": "C:\\Users\\l4304\\Desktop\\Liga\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -13041,11 +13041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.App\\DevIO.App.csproj",
+      "projectUniqueName": "C:\\Users\\l4304\\Desktop\\Liga\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.App\\DevIO.App.csproj",
       "projectName": "DevIO.App",
-      "projectPath": "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.App\\DevIO.App.csproj",
+      "projectPath": "C:\\Users\\l4304\\Desktop\\Liga\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.App\\DevIO.App.csproj",
       "packagesPath": "C:\\Users\\l4304\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.App\\obj\\",
+      "outputPath": "C:\\Users\\l4304\\Desktop\\Liga\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13065,8 +13065,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
-              "projectPath": "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj"
+            "C:\\Users\\l4304\\Desktop\\Liga\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
+              "projectPath": "C:\\Users\\l4304\\Desktop\\Liga\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj"
             }
           }
         }

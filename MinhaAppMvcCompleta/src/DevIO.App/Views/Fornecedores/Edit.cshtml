@@ -28,8 +28,8 @@
             <div class="form-group">
                 <label asp-for="TipoFornecedor" class="control-label"></label>
                 <div>
-                    <input type="radio" value="1" asp-for="TipoFornecedor" checked="@(Model.TipoFornecedor == 1)" />
-                    <input type="radio" value="2" asp-for="TipoFornecedor" checked="@(Model.TipoFornecedor == 2)" />
+                    <input type="radio" value="1" asp-for="TipoFornecedor" checked="@(Model.TipoFornecedor == 1)" /> Pessoa física
+                    <input type="radio" value="2" asp-for="TipoFornecedor" checked="@(Model.TipoFornecedor == 2)" /> Pessoa Jurídica
                 </div>
                 <div>
                     &nbsp;
@@ -49,7 +49,13 @@
 </form>
 
 <div>
-    <partial name="_DetalhesEndereco" />
+    <partial name="_DetalhesEndereco" model="@Model.Endereco"/>
+</div>
+
+<hr />
+<h4>Produtos</h4>
+<div>
+    <partial name="../Produtos/_ListaProdutos" model="@Model.Produtos" />
 </div>
 
 @section Scripts {
