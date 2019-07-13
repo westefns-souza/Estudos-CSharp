@@ -7,6 +7,7 @@ C:\Users\l4304\Desktop\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.Business\ob
 C:\Users\l4304\Desktop\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
 C:\Users\l4304\Desktop\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
 C:\Users\l4304\Desktop\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+<<<<<<< HEAD
 C:\Users\weste\Documents\Estudos-CSharp\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
 C:\Users\weste\Documents\Estudos-CSharp\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
 C:\Users\weste\Documents\Estudos-CSharp\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
@@ -16,3 +17,14 @@ C:\Users\weste\Documents\Estudos-CSharp\MinhaAppMvcCompleta\src\DevIO.Business\o
 C:\Users\weste\Documents\Estudos-CSharp\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
 C:\Users\weste\Documents\Estudos-CSharp\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
 C:\Users\weste\Documents\Estudos-CSharp\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+=======
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+>>>>>>> 17ab91663a1b3002d9ae37d793c013c7e0fc9d78

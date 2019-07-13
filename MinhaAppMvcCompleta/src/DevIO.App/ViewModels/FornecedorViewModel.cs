@@ -25,6 +25,7 @@ namespace DevIO.App.ViewModels
         public int TipoFornecedor { get; set; }
 
         public EnderecoViewModel Endereco { get; set; }
+        public IEnumerable<EnderecoViewModel> Enderecos { get; set; }
 
         [DisplayName("Ativo?")]
         public bool Ativo { get; set; }

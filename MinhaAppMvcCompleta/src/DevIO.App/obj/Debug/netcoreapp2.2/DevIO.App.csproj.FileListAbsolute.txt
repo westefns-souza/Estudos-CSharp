@@ -46,6 +46,7 @@ C:\Users\l4304\Desktop\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Deb
 C:\Users\l4304\Desktop\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.g.cshtml.cs
 C:\Users\l4304\Desktop\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_Endereco.g.cshtml.cs
 C:\Users\l4304\Desktop\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_DetalhesEndereco.g.cshtml.cs
+<<<<<<< HEAD
 C:\Users\weste\Documents\Estudos-CSharp\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.App.deps.json
 C:\Users\weste\Documents\Estudos-CSharp\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.App.runtimeconfig.json
 C:\Users\weste\Documents\Estudos-CSharp\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.App.runtimeconfig.dev.json
@@ -94,3 +95,56 @@ C:\Users\weste\Documents\Estudos-CSharp\MinhaAppMvcCompleta\src\DevIO.App\obj\De
 C:\Users\weste\Documents\Estudos-CSharp\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.csproj.CopyComplete
 C:\Users\weste\Documents\Estudos-CSharp\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.dll
 C:\Users\weste\Documents\Estudos-CSharp\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.pdb
+=======
+C:\Users\l4304\Desktop\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\_ListaProdutos.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.App.deps.json
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.App.runtimeconfig.json
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.App.runtimeconfig.dev.json
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.App.dll
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.App.pdb
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.App.Views.dll
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.App.Views.pdb
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.csprojAssemblyReference.cache
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.csproj.CoreCompileInputs.cache
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.RazorAssemblyInfo.cache
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.RazorAssemblyInfo.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.AssemblyInfoInputs.cache
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.AssemblyInfo.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.TagHelpers.input.cache
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.TagHelpers.output.cache
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.RazorCoreGenerate.cache
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Create.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Delete.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Details.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Edit.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Index.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_AtualizarEndereco.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_DetalhesEndereco.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_Endereco.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Create.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Delete.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Details.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Edit.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Produtos\_ListaProdutos.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.RazorTargetAssemblyInfo.cache
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.RazorTargetAssemblyInfo.cs
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.Views.pdb
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.csproj.CopyComplete
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.dll
+C:\Users\l4304\Desktop\Liga\Estudos Asp.Net\MinhaAppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.pdb
+>>>>>>> 17ab91663a1b3002d9ae37d793c013c7e0fc9d78

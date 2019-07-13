@@ -1,4 +1,4 @@
-﻿@model IEnumerable<DevIO.App.ViewModels.EnderecoViewModel>
+﻿@model DevIO.App.ViewModels.EnderecoViewModel
 
 <div style="padding-top: 20px">
     <div>
@@ -10,9 +10,6 @@
         <table class="table table-hover">
             <thead class="thead-dark">
                 <tr>
-                    <th>
-                        @Html.DisplayNameFor(model => model.Id)
-                    </th>
                     <th>
                         @Html.DisplayNameFor(model => model.Longradouro)
                     </th>
@@ -34,48 +31,36 @@
                     <th>
                         @Html.DisplayNameFor(model => model.Estado)
                     </th>
-                    <th>
-                        @Html.DisplayNameFor(model => model.FornecedorId)
-                    </th>
                     <th></th>
                 </tr>
             </thead>
             <tbody>
-                @foreach (var item in Model)
-                {
-                    <tr>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Id)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Longradouro)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Numero)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Complemento)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Bairro)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Cep)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Cidade)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Estado)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.FornecedorId)
-                        </td>
-                        <td>
-                           <a class="btn btn-info"><span title="Editar" class="fa fa-pencil-alt"></span></a>
-                        </td>
-                    </tr>
-                }
+                <tr>
+                    <td>
+                        @Html.DisplayFor(model => model.Longradouro)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => model.Numero)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => model.Complemento)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => model.Bairro)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => model.Cep)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => model.Cidade)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(model => model.Estado)
+                    </td>
+                    <td>
+                        <a class="btn btn-info" asp-action="Edit" asp-controller="Endereco"><span title="Editar" class="fa fa-pencil-alt"></span></a>
+                    </td>
+                </tr>
             </tbody>
         </table>
     }
