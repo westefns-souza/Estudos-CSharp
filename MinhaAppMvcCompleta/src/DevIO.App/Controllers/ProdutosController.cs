@@ -51,7 +51,7 @@ namespace DevIO.App.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(ProdutoViewModel produtoViewModel)
         {
-            produtoViewModel = await PopularFornecedores(produtoViewModel);
+            //produtoViewModel = await PopularFornecedores(produtoViewModel);
             if (!ModelState.IsValid) return View(produtoViewModel);
 
             var imgPrefixo = Guid.NewGuid() + "_";
@@ -152,7 +152,7 @@ namespace DevIO.App.Controllers
             if (arquivo.Length <= 0) return false;
 
             //var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/imagens", imgPrefixo + arquivo.FileName);
-            var path = Path.Combine("C:/Users/l4304/Desktop/Estudos Asp.Net/MinhaAppMvcCompleta/src/DevIO.App", "wwwroot/imagens", imgPrefixo + arquivo.FileName);
+            var path = Path.Combine("C:\\Users\\weste\\Documents\\Estudos-CSharp\\MinhaAppMvcCompleta\\src\\DevIO.App", "wwwroot/imagens", imgPrefixo + arquivo.FileName);
 
             if (System.IO.File.Exists(path))
             {

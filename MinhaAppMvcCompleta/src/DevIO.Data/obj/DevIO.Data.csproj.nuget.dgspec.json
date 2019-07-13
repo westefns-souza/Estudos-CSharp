@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {}
+    "C:\\Users\\weste\\Documents\\Estudos-CSharp\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "C:\\Users\\weste\\Documents\\Estudos-CSharp\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "C:\\Users\\weste\\Documents\\Estudos-CSharp\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
-        "packagesPath": "C:\\Users\\l4304\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Business\\obj\\",
+        "projectPath": "C:\\Users\\weste\\Documents\\Estudos-CSharp\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "packagesPath": "C:\\Users\\weste\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\weste\\Documents\\Estudos-CSharp\\MinhaAppMvcCompleta\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\l4304\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\weste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://s-apl01:8088/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,20 +56,20 @@
         }
       }
     },
-    "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
+    "C:\\Users\\weste\\Documents\\Estudos-CSharp\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectUniqueName": "C:\\Users\\weste\\Documents\\Estudos-CSharp\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
         "projectName": "DevIO.Data",
-        "projectPath": "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
-        "packagesPath": "C:\\Users\\l4304\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Data\\obj\\",
+        "projectPath": "C:\\Users\\weste\\Documents\\Estudos-CSharp\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "packagesPath": "C:\\Users\\weste\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\weste\\Documents\\Estudos-CSharp\\MinhaAppMvcCompleta\\src\\DevIO.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\l4304\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\weste\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,14 +77,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://s-apl01:8088/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
-                "projectPath": "C:\\Users\\l4304\\Desktop\\Estudos Asp.Net\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
+              "C:\\Users\\weste\\Documents\\Estudos-CSharp\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+                "projectPath": "C:\\Users\\weste\\Documents\\Estudos-CSharp\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
               }
             }
           }
